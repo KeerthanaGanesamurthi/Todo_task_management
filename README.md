@@ -54,30 +54,8 @@ https://todo-task-manager-eosin.vercel.app/login
 
 ## Architecture Diagram 
 
-React Application
-│
-├── index.js
-│   └── Renders App with Context Providers and BrowserRouter
-│
-├── App.js
-│   └── Routes:
-│       ├── /login (Login Page)
-│       ├── / (Dashboard - Protected Route)
-│       └── /profile (User Profile - Protected Route)
-│
-├── context/
-│   ├── AuthContext.js      → Handles authentication and user data
-│   └── TaskContext.js      → Manages tasks and real-time updates
-│
-├── components/
-│   ├── Login.js            → Mock login UI
-│   ├── Dashboard.js        → Displays task list and filters
-│   ├── TaskForm.js         → Task creation and editing
-│   ├── Profile.js          → User profile management
-│   ├── Header.js           → Navigation bar
-│
-└── services/
-└── authService.js      → Mock login, logout, update profile
+![image](https://github.com/user-attachments/assets/9f56ff2c-a5f7-4703-8bb6-6d91d49bba05)
+
 
 
 ## Submission Notes
