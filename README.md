@@ -22,7 +22,7 @@ This is a responsive task management web application built with React JS. Users 
 ### User Experience
 - Responsive design for desktop and mobile
 - Toast notifications for actions (e.g., create, edit, delete)
-- 
+
 ## Tech Stack
 
 - Frontend: React JS
